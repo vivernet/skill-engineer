@@ -1,0 +1,7 @@
+interface:
+  display_name: "Skill Engineer"
+  short_description: "Создание, проверка и аудит навыков"
+  icon_small: "./assets/icon.svg"
+  icon_large: "./assets/icon.svg"
+  brand_color: "#8B5CF6"
+  default_prompt: "Используй $skill-engineer для создания или улучшения навыка Agent Skills с TDD, тестированием и аудитом."
